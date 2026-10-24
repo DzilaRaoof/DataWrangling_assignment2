@@ -80,6 +80,7 @@ The main qualitative findings of the paper's synthetic experiment are reproduced
 All code for this reproduction is available:
 
 * **Databricks notebook:** `Simple Imputation Rules Reproduction` (contains the full pipeline from data generation through Table 2 and Figure 1)
-* **GitHub repository:** https://github.com/DzilaRaoof/DataWrangling_assignment2/blob/main/Simple%20Imputation%20Rules%20Reproduction.ipynb
+* **GitHub repository:**
+* https://github.com/DzilaRaoof/DataWrangling_assignment2/blob/main/Simple%20Imputation%20Rules%20Reproduction.ipynb
 
 The notebook runs on Databricks serverless compute (4 CPUs, no GPU required). Total wall-clock time for 480 instances: approximately 28 minutes.
